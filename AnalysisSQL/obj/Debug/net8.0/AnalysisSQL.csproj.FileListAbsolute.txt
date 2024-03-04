@@ -1,0 +1,12 @@
+E:\study\gggggg\sqlparser\AnalysisSQL\bin\Debug\net8.0\AnalysisSQL.deps.json
+E:\study\gggggg\sqlparser\AnalysisSQL\bin\Debug\net8.0\AnalysisSQL.dll
+E:\study\gggggg\sqlparser\AnalysisSQL\bin\Debug\net8.0\AnalysisSQL.pdb
+E:\study\gggggg\sqlparser\AnalysisSQL\obj\Debug\net8.0\AnalysisSQL.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\gggggg\sqlparser\AnalysisSQL\obj\Debug\net8.0\AnalysisSQL.AssemblyInfoInputs.cache
+E:\study\gggggg\sqlparser\AnalysisSQL\obj\Debug\net8.0\AnalysisSQL.AssemblyInfo.cs
+E:\study\gggggg\sqlparser\AnalysisSQL\obj\Debug\net8.0\AnalysisSQL.csproj.CoreCompileInputs.cache
+E:\study\gggggg\sqlparser\AnalysisSQL\obj\Debug\net8.0\AnalysisSQL.sourcelink.json
+E:\study\gggggg\sqlparser\AnalysisSQL\obj\Debug\net8.0\AnalysisSQL.dll
+E:\study\gggggg\sqlparser\AnalysisSQL\obj\Debug\net8.0\refint\AnalysisSQL.dll
+E:\study\gggggg\sqlparser\AnalysisSQL\obj\Debug\net8.0\AnalysisSQL.pdb
+E:\study\gggggg\sqlparser\AnalysisSQL\obj\Debug\net8.0\ref\AnalysisSQL.dll

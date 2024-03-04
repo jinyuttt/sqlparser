@@ -6,3 +6,14 @@ E:\Study\vs\analysis\AnalysisSQL\AnalysisSQL\obj\Debug\netstandard2.0\AnalysisSQ
 E:\Study\vs\analysis\AnalysisSQL\AnalysisSQL\obj\Debug\netstandard2.0\AnalysisSQL.AssemblyInfo.cs
 E:\Study\vs\analysis\AnalysisSQL\AnalysisSQL\obj\Debug\netstandard2.0\AnalysisSQL.dll
 E:\Study\vs\analysis\AnalysisSQL\AnalysisSQL\obj\Debug\netstandard2.0\AnalysisSQL.pdb
+E:\study\gggggg\sqlparser\AnalysisSQL\bin\Debug\netstandard2.0\AnalysisSQL.deps.json
+E:\study\gggggg\sqlparser\AnalysisSQL\bin\Debug\netstandard2.0\AnalysisSQL.dll
+E:\study\gggggg\sqlparser\AnalysisSQL\bin\Debug\netstandard2.0\AnalysisSQL.pdb
+E:\study\gggggg\sqlparser\AnalysisSQL\obj\Debug\netstandard2.0\AnalysisSQL.csproj.AssemblyReference.cache
+E:\study\gggggg\sqlparser\AnalysisSQL\obj\Debug\netstandard2.0\AnalysisSQL.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\gggggg\sqlparser\AnalysisSQL\obj\Debug\netstandard2.0\AnalysisSQL.AssemblyInfoInputs.cache
+E:\study\gggggg\sqlparser\AnalysisSQL\obj\Debug\netstandard2.0\AnalysisSQL.AssemblyInfo.cs
+E:\study\gggggg\sqlparser\AnalysisSQL\obj\Debug\netstandard2.0\AnalysisSQL.csproj.CoreCompileInputs.cache
+E:\study\gggggg\sqlparser\AnalysisSQL\obj\Debug\netstandard2.0\AnalysisSQL.sourcelink.json
+E:\study\gggggg\sqlparser\AnalysisSQL\obj\Debug\netstandard2.0\AnalysisSQL.dll
+E:\study\gggggg\sqlparser\AnalysisSQL\obj\Debug\netstandard2.0\AnalysisSQL.pdb
